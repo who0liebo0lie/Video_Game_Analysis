@@ -83,43 +83,43 @@ This project demonstrates more than technical fluency. It shows how machine lear
 # Images from File
 ### Platform Sales Distribution
 
-![image_1.png](video_games_images/image_1.png)
+![image_1.png](video_game_images/image_1.png)
 
 ### Global Sales by Platform
 
-![image_2.png](video_games_images/image_2.png)
+![image_2.png](video_game_images/image_2.png)
 
 ### Critic vs User Score Comparison
 
-![image_3.png](video_games_images/image_3.png)
+![image_3.png](video_game_images/image_3.png)
 
 ### Platform Lifespan Trends
 
-![image_4.png](video_games_images/image_4.png)
+![image_4.png](video_game_images/image_4.png)
 
 ### Genre Popularity by Region
 
-![image_5.png](video_games_images/image_5.png)
+![image_5.png](video_game_images/image_5.png)
 
 ### Top Game Sales Comparison (Call of Duty Example)
 
-![image_6.png](video_games_images/image_6.png)
+![image_6.png](video_game_images/image_6.png)
 
 ### ESRB Rating Impact by Region
 
-![image_7.png](video_games_images/image_7.png)
+![image_7.png](video_game_images/image_7.png)
 
 ### Hypothesis Testing: Xbox One vs PC
 
-![image_8.png](video_games_images/image_8.png)
+![image_8.png](video_game_images/image_8.png)
 
 ### Hypothesis Testing: Action vs Sports Genres
 
-![image_9.png](video_games_images/image_9.png)
+![image_9.png](video_game_images/image_9.png)
 
 ### Annual Game Release Volume (1980–2016)
 
-![image_10.png](video_games_images/image_10.png)
+![image_10.png](video_game_images/image_10.png)
 
 🤝 Contributing
 Contributions are welcome! Feel free to fork the repo, explore other trends in the dataset, and submit a pull request with your insights or improvements.
