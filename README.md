@@ -11,28 +11,17 @@ From data cleaning and exploratory data analysis (EDA) to regional segmentation 
 
 ## 🔧 Techniques Demonstrating Industry-Ready Skills
 
-| Category                        | Techniques Applied                                                                 |
-|--------------------------------|-------------------------------------------------------------------------------------|
-| **Data Engineering**           | - Renamed columns to lowercase for consistency  
-                                 - Converted data types appropriately  
-                                 - Handled missing values with context-aware strategies  
-                                 - Filtered and preprocessed for analysis-ready datasets |
-| **Exploratory Data Analysis**  | - Created boxplots, scatterplots, and bar charts to visualize platform and genre trends  
-                                 - Identified outliers and compared platform sales distributions |
-| **User Profiling**             | - Built regional profiles (NA, EU, JP) with top 5 platforms and genres  
-                                 - Analyzed variation in market preferences across geographies |
-| **Business Analytics**         | - Measured platform lifespan and performance trends  
-                                 - Analyzed genre profitability  
-                                 - Compared cross-platform game performance |
-| **Hypothesis Testing**         | - Formulated and tested hypotheses using t-tests  
-                                 - Compared user ratings across platforms and genres  
-                                 - Set statistical significance with α = 0.05 |
-| **Data Cleaning**              | - Replaced placeholder values like `TBD` and zeroes  
-                                 - Converted object scores to numeric with coercion |
-| **Data-Driven Strategy**       | - Recommended genre/platform focus for 2017 based on historical trends  
-                                 - Informed marketing strategy with critic/user review insights |
-| **Communication & Insight**   | - Delivered actionable recommendations  
-                                 - Connected statistical analysis to business value |
+| **Category**             | **Techniques Applied** |
+|--------------------------|------------------------|
+| **Data Engineering**     | Renamed columns to lowercase, converted data types, handled missing values contextually, filtered for analysis-ready datasets |
+| **Exploratory Data Analysis** | Created boxplots, scatterplots, and bar charts; analyzed sales distributions, genre and platform trends |
+| **User Profiling**       | Built regional profiles (NA, EU, JP) with top 5 platforms and genres; analyzed variation in regional preferences |
+| **Business Analytics**   | Measured platform lifespan; evaluated genre profitability; compared cross-platform game performance |
+| **Hypothesis Testing**   | Formulated and tested hypotheses using t-tests; compared user ratings across platforms and genres; used α = 0.05 |
+| **Data Cleaning**        | Replaced placeholder values like `TBD`; converted scores from object to numeric with coercion |
+| **Data-Driven Strategy** | Recommended genre/platform focus for 2017 based on trends; linked review scores to marketing potential |
+| **Communication & Insight** | Delivered clear, actionable recommendations based on analysis; connected results to business goals |
+
 
 Install required Python packages:
 
@@ -90,6 +79,47 @@ By treating the dataset like a product pipeline, this project simulated the real
 If this were 2017, recommendation is building an action-based game, optimized for PS4, and marketing it heavily in North America, with free early access to critics. That’s not guesswork. That’s data science in action.
 
 This project demonstrates more than technical fluency. It shows how machine learning engineers can translate raw data into strategic decisions—and help shape the future of an entire industry.
+
+# Images from File
+### Platform Sales Distribution
+
+![image_1.png](images/image_1.png)
+
+### Global Sales by Platform
+
+![image_2.png](images/image_2.png)
+
+### Critic vs User Score Comparison
+
+![image_3.png](images/image_3.png)
+
+### Platform Lifespan Trends
+
+![image_4.png](images/image_4.png)
+
+### Genre Popularity by Region
+
+![image_5.png](images/image_5.png)
+
+### Top Game Sales Comparison (Call of Duty Example)
+
+![image_6.png](images/image_6.png)
+
+### ESRB Rating Impact by Region
+
+![image_7.png](images/image_7.png)
+
+### Hypothesis Testing: Xbox One vs PC
+
+![image_8.png](images/image_8.png)
+
+### Hypothesis Testing: Action vs Sports Genres
+
+![image_9.png](images/image_9.png)
+
+### Annual Game Release Volume (1980–2016)
+
+![image_10.png](images/image_10.png)
 
 🤝 Contributing
 Contributions are welcome! Feel free to fork the repo, explore other trends in the dataset, and submit a pull request with your insights or improvements.
